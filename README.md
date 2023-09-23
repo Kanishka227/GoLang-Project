@@ -1,4 +1,5 @@
-# GoLang-Project
+# GoWebServer
+
 
 GoWebServeris a web application built using the Go programming
 language that serves as a foundation for creating a dynamic web server
